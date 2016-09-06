@@ -1,0 +1,12 @@
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\GregField_Assignment1Fractals\GregField_Assignment1Fractals\bin\Debug\GregField_Assignment1Fractals.exe.config
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\GregField_Assignment1Fractals\GregField_Assignment1Fractals\obj\Debug\GregField_Assignment1Fractals.csprojResolveAssemblyReference.cache
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\GregField_Assignment1Fractals\GregField_Assignment1Fractals\obj\Debug\GregField_Assignment1Fractals.Form1.resources
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\GregField_Assignment1Fractals\GregField_Assignment1Fractals\obj\Debug\GregField_Assignment1Fractals.Properties.Resources.resources
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\GregField_Assignment1Fractals\GregField_Assignment1Fractals\obj\Debug\GregField_Assignment1Fractals.csproj.GenerateResource.Cache
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\GregField_Assignment1Fractals\GregField_Assignment1Fractals\bin\Debug\GregField_Assignment1Fractals.exe
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\GregField_Assignment1Fractals\GregField_Assignment1Fractals\bin\Debug\GregField_Assignment1Fractals.pdb
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\GregField_Assignment1Fractals\GregField_Assignment1Fractals\obj\Debug\GregField_Assignment1Fractals.exe
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\GregField_Assignment1Fractals\GregField_Assignment1Fractals\obj\Debug\GregField_Assignment1Fractals.pdb
+C:\Users\Greg\Documents\GitHub\Algorithms-and-Data-Structures\Fractals\GregField_Assignment1Fractals\bin\Debug\GregField_Assignment1Fractals.exe.config
+C:\Users\Greg\Documents\GitHub\Algorithms-and-Data-Structures\Fractals\GregField_Assignment1Fractals\obj\Debug\GregField_Assignment1Fractals.exe
+C:\Users\Greg\Documents\GitHub\Algorithms-and-Data-Structures\Fractals\GregField_Assignment1Fractals\obj\Debug\GregField_Assignment1Fractals.pdb

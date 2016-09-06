@@ -1,0 +1,7 @@
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 1\PriorityQueue\PriorityQueueTestProject1\bin\Debug\PriorityQueueTestProject1.dll
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 1\PriorityQueue\PriorityQueueTestProject1\bin\Debug\PriorityQueueTestProject1.pdb
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 1\PriorityQueue\PriorityQueueTestProject1\bin\Debug\PriorityQueue.exe
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 1\PriorityQueue\PriorityQueueTestProject1\bin\Debug\PriorityQueue.pdb
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 1\PriorityQueue\PriorityQueueTestProject1\obj\Debug\PriorityQueueTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 1\PriorityQueue\PriorityQueueTestProject1\obj\Debug\PriorityQueueTestProject1.dll
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 1\PriorityQueue\PriorityQueueTestProject1\obj\Debug\PriorityQueueTestProject1.pdb

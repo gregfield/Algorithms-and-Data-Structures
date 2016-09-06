@@ -1,0 +1,9 @@
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 2\Sort Algorithms\Sort Algorithms\bin\Debug\Sort Algorithms.exe.config
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 2\Sort Algorithms\Sort Algorithms\obj\Debug\Sort Algorithms.csprojResolveAssemblyReference.cache
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 2\Sort Algorithms\Sort Algorithms\obj\Debug\Sort_Algorithms.Form1.resources
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 2\Sort Algorithms\Sort Algorithms\obj\Debug\Sort_Algorithms.Properties.Resources.resources
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 2\Sort Algorithms\Sort Algorithms\obj\Debug\Sort Algorithms.csproj.GenerateResource.Cache
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 2\Sort Algorithms\Sort Algorithms\bin\Debug\Sort Algorithms.exe
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 2\Sort Algorithms\Sort Algorithms\bin\Debug\Sort Algorithms.pdb
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 2\Sort Algorithms\Sort Algorithms\obj\Debug\Sort Algorithms.exe
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 2\Sort Algorithms\Sort Algorithms\obj\Debug\Sort Algorithms.pdb

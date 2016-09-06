@@ -1,0 +1,7 @@
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 4\IntermediateRecursion\IntermediateRecursionTestProject1\bin\Debug\IntermediateRecursionTestProject1.dll
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 4\IntermediateRecursion\IntermediateRecursionTestProject1\bin\Debug\IntermediateRecursionTestProject1.pdb
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 4\IntermediateRecursion\IntermediateRecursionTestProject1\obj\Debug\IntermediateRecursionTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 4\IntermediateRecursion\IntermediateRecursionTestProject1\obj\Debug\IntermediateRecursionTestProject1.dll
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 4\IntermediateRecursion\IntermediateRecursionTestProject1\obj\Debug\IntermediateRecursionTestProject1.pdb
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 4\IntermediateRecursion\IntermediateRecursionTestProject1\bin\Debug\IntermediateRecursion.exe
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 4\IntermediateRecursion\IntermediateRecursionTestProject1\bin\Debug\IntermediateRecursion.pdb

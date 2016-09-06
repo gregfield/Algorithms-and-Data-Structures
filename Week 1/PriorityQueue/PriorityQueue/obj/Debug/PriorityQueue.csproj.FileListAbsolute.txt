@@ -1,0 +1,9 @@
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 1\PriorityQueue\PriorityQueue\bin\Debug\PriorityQueue.exe.config
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 1\PriorityQueue\PriorityQueue\obj\Debug\PriorityQueue.csprojResolveAssemblyReference.cache
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 1\PriorityQueue\PriorityQueue\obj\Debug\PriorityQueue.Form1.resources
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 1\PriorityQueue\PriorityQueue\obj\Debug\PriorityQueue.Properties.Resources.resources
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 1\PriorityQueue\PriorityQueue\obj\Debug\PriorityQueue.csproj.GenerateResource.Cache
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 1\PriorityQueue\PriorityQueue\bin\Debug\PriorityQueue.exe
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 1\PriorityQueue\PriorityQueue\bin\Debug\PriorityQueue.pdb
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 1\PriorityQueue\PriorityQueue\obj\Debug\PriorityQueue.exe
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 1\PriorityQueue\PriorityQueue\obj\Debug\PriorityQueue.pdb

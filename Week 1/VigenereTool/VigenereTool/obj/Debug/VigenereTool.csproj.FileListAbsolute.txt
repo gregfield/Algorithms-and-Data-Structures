@@ -1,0 +1,9 @@
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 1\VigenereTool\VigenereTool\bin\Debug\VigenereTool.exe.config
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 1\VigenereTool\VigenereTool\bin\Debug\VigenereTool.exe
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 1\VigenereTool\VigenereTool\bin\Debug\VigenereTool.pdb
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 1\VigenereTool\VigenereTool\obj\Debug\VigenereTool.csprojResolveAssemblyReference.cache
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 1\VigenereTool\VigenereTool\obj\Debug\VigenereTool.Form1.resources
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 1\VigenereTool\VigenereTool\obj\Debug\VigenereTool.Properties.Resources.resources
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 1\VigenereTool\VigenereTool\obj\Debug\VigenereTool.csproj.GenerateResource.Cache
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 1\VigenereTool\VigenereTool\obj\Debug\VigenereTool.exe
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 1\VigenereTool\VigenereTool\obj\Debug\VigenereTool.pdb

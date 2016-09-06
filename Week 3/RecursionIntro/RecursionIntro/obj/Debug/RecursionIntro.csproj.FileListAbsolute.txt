@@ -1,0 +1,8 @@
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 3\RecursionIntro\RecursionIntro\bin\Debug\RecursionIntro.exe.config
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 3\RecursionIntro\RecursionIntro\bin\Debug\RecursionIntro.exe
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 3\RecursionIntro\RecursionIntro\bin\Debug\RecursionIntro.pdb
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 3\RecursionIntro\RecursionIntro\obj\Debug\RecursionIntro.csprojResolveAssemblyReference.cache
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 3\RecursionIntro\RecursionIntro\obj\Debug\RecursionIntro.Properties.Resources.resources
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 3\RecursionIntro\RecursionIntro\obj\Debug\RecursionIntro.csproj.GenerateResource.Cache
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 3\RecursionIntro\RecursionIntro\obj\Debug\RecursionIntro.exe
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 3\RecursionIntro\RecursionIntro\obj\Debug\RecursionIntro.pdb

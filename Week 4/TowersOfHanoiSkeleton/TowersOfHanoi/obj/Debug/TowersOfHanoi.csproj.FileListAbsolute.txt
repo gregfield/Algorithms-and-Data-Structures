@@ -1,0 +1,39 @@
+E:\Users\Patricia\Desktop\TowersOfHanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.csprojResolveAssemblyReference.cache
+E:\Users\Patricia\Desktop\TowersOfHanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.Form1.resources
+E:\Users\Patricia\Desktop\TowersOfHanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.Properties.Resources.resources
+E:\Users\Patricia\Desktop\TowersOfHanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.csproj.GenerateResource.Cache
+E:\Users\Patricia\Desktop\TowersOfHanoi\TowersOfHanoi\bin\Debug\TowersOfHanoi.exe.config
+E:\Users\Patricia\Desktop\TowersOfHanoi\TowersOfHanoi\bin\Debug\TowersOfHanoi.exe
+E:\Users\Patricia\Desktop\TowersOfHanoi\TowersOfHanoi\bin\Debug\TowersOfHanoi.pdb
+E:\Users\Patricia\Desktop\TowersOfHanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.exe
+E:\Users\Patricia\Desktop\TowersOfHanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.pdb
+E:\Users\Patricia\Documents\Work\IN711 A&DS 2016\IN711_2016_TeachingSessions\IN711 ADS 2016 4.1\TowersOfHanoiSkeleton\TowersOfHanoi\bin\Debug\TowersOfHanoi.exe.config
+E:\Users\Patricia\Documents\Work\IN711 A&DS 2016\IN711_2016_TeachingSessions\IN711 ADS 2016 4.1\TowersOfHanoiSkeleton\TowersOfHanoi\obj\Debug\TowersOfHanoi.exe
+E:\Users\Patricia\Documents\Work\IN711 A&DS 2016\IN711_2016_TeachingSessions\IN711 ADS 2016 4.1\TowersOfHanoiSkeleton\TowersOfHanoi\obj\Debug\TowersOfHanoi.pdb
+E:\Users\Patricia\Documents\Work\IN711 A&DS 2016\IN711_2016_TeachingSessions\IN711 ADS 2016 4.1\TowersOfHanoiSkeleton\TowersOfHanoi\bin\Debug\TowersOfHanoi.exe
+E:\Users\Patricia\Documents\Work\IN711 A&DS 2016\IN711_2016_TeachingSessions\IN711 ADS 2016 4.1\TowersOfHanoiSkeleton\TowersOfHanoi\bin\Debug\TowersOfHanoi.pdb
+E:\Users\Patricia\Documents\Work\IN711 A&DS 2016\IN711_2016_TeachingSessions\IN711 ADS 2016 4.1\TowersOfHanoiSkeleton\TowersOfHanoi\obj\Debug\TowersOfHanoi.csprojResolveAssemblyReference.cache
+E:\Users\Patricia\Documents\Work\IN711 A&DS 2016\IN711_2016_TeachingSessions\IN711 ADS 2016 4.1\TowersOfHanoiSkeleton\TowersOfHanoi\obj\Debug\TowersOfHanoi.Form1.resources
+E:\Users\Patricia\Documents\Work\IN711 A&DS 2016\IN711_2016_TeachingSessions\IN711 ADS 2016 4.1\TowersOfHanoiSkeleton\TowersOfHanoi\obj\Debug\TowersOfHanoi.Properties.Resources.resources
+E:\Users\Patricia\Documents\Work\IN711 A&DS 2016\IN711_2016_TeachingSessions\IN711 ADS 2016 4.1\TowersOfHanoiSkeleton\TowersOfHanoi\obj\Debug\TowersOfHanoi.csproj.GenerateResource.Cache
+I:\COURSES\EAD\AITEIT3\BITY3\IN711 Algorithms & Data Structures\Session 4.1\TowersOfHanoiSkeleton\TowersOfHanoi\bin\Debug\TowersOfHanoi.exe.config
+I:\COURSES\EAD\AITEIT3\BITY3\IN711 Algorithms & Data Structures\Session 4.1\TowersOfHanoiSkeleton\TowersOfHanoi\obj\Debug\TowersOfHanoi.exe
+I:\COURSES\EAD\AITEIT3\BITY3\IN711 Algorithms & Data Structures\Session 4.1\TowersOfHanoiSkeleton\TowersOfHanoi\obj\Debug\TowersOfHanoi.pdb
+H:\My Documents\TowersOfHanoiSkeleton\TowersOfHanoi\bin\Debug\TowersOfHanoi.exe.config
+H:\My Documents\TowersOfHanoiSkeleton\TowersOfHanoi\obj\Debug\TowersOfHanoi.exe
+H:\My Documents\TowersOfHanoiSkeleton\TowersOfHanoi\obj\Debug\TowersOfHanoi.pdb
+H:\My Documents\TowersOfHanoiSkeleton\TowersOfHanoi\bin\Debug\TowersOfHanoi.exe
+H:\My Documents\TowersOfHanoiSkeleton\TowersOfHanoi\bin\Debug\TowersOfHanoi.pdb
+H:\My Documents\TowersOfHanoiSkeleton\TowersOfHanoi\obj\Debug\TowersOfHanoi.csprojResolveAssemblyReference.cache
+H:\My Documents\TowersOfHanoiSkeleton\TowersOfHanoi\obj\Debug\TowersOfHanoi.Form1.resources
+H:\My Documents\TowersOfHanoiSkeleton\TowersOfHanoi\obj\Debug\TowersOfHanoi.Properties.Resources.resources
+H:\My Documents\TowersOfHanoiSkeleton\TowersOfHanoi\obj\Debug\TowersOfHanoi.csproj.GenerateResource.Cache
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 4\TowersOfHanoiSkeleton\TowersOfHanoi\bin\Debug\TowersOfHanoi.exe.config
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 4\TowersOfHanoiSkeleton\TowersOfHanoi\bin\Debug\TowersOfHanoi.exe
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 4\TowersOfHanoiSkeleton\TowersOfHanoi\bin\Debug\TowersOfHanoi.pdb
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 4\TowersOfHanoiSkeleton\TowersOfHanoi\obj\Debug\TowersOfHanoi.csprojResolveAssemblyReference.cache
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 4\TowersOfHanoiSkeleton\TowersOfHanoi\obj\Debug\TowersOfHanoi.Form1.resources
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 4\TowersOfHanoiSkeleton\TowersOfHanoi\obj\Debug\TowersOfHanoi.Properties.Resources.resources
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 4\TowersOfHanoiSkeleton\TowersOfHanoi\obj\Debug\TowersOfHanoi.csproj.GenerateResource.Cache
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 4\TowersOfHanoiSkeleton\TowersOfHanoi\obj\Debug\TowersOfHanoi.exe
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 4\TowersOfHanoiSkeleton\TowersOfHanoi\obj\Debug\TowersOfHanoi.pdb

@@ -1,0 +1,19 @@
+﻿Build started 29/08/2016 2:20:06 PM.
+     1>Project "C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 6\BinarySearchTrees\BinarySearchTrees\BinarySearchTrees.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib BinarySearchTree.cpp
+         BinarySearchTree.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 6\BinarySearchTrees\Debug\BinarySearchTrees.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\BinarySearchTrees.BinarySearchForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 6\BinarySearchTrees\Debug\BinarySearchTrees.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"Main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\BinarySearchForm.obj
+         Debug\BinarySearchNode.obj
+         Debug\BinarySearchTree.obj
+         Debug\BinaryTree.obj
+         Debug\Traversals.obj
+         Debug\Worker.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         BinarySearchTrees.vcxproj -> C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 6\BinarySearchTrees\Debug\BinarySearchTrees.exe
+     1>Done Building Project "C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 6\BinarySearchTrees\BinarySearchTrees\BinarySearchTrees.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.80

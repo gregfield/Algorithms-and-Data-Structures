@@ -1,0 +1,7 @@
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 2\Sort Algorithms\SortAlgorithmsTestProject\obj\Debug\SortAlgorithmsTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 2\Sort Algorithms\SortAlgorithmsTestProject\bin\Debug\SortAlgorithmsTestProject.dll
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 2\Sort Algorithms\SortAlgorithmsTestProject\bin\Debug\SortAlgorithmsTestProject.pdb
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 2\Sort Algorithms\SortAlgorithmsTestProject\bin\Debug\Sort Algorithms.exe
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 2\Sort Algorithms\SortAlgorithmsTestProject\bin\Debug\Sort Algorithms.pdb
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 2\Sort Algorithms\SortAlgorithmsTestProject\obj\Debug\SortAlgorithmsTestProject.dll
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 2\Sort Algorithms\SortAlgorithmsTestProject\obj\Debug\SortAlgorithmsTestProject.pdb

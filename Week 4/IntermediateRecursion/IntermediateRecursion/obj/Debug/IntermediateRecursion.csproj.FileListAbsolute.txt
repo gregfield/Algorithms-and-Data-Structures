@@ -1,0 +1,9 @@
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 4\IntermediateRecursion\IntermediateRecursion\bin\Debug\IntermediateRecursion.exe.config
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 4\IntermediateRecursion\IntermediateRecursion\bin\Debug\IntermediateRecursion.exe
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 4\IntermediateRecursion\IntermediateRecursion\bin\Debug\IntermediateRecursion.pdb
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 4\IntermediateRecursion\IntermediateRecursion\obj\Debug\IntermediateRecursion.csprojResolveAssemblyReference.cache
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 4\IntermediateRecursion\IntermediateRecursion\obj\Debug\IntermediateRecursion.Properties.Resources.resources
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 4\IntermediateRecursion\IntermediateRecursion\obj\Debug\IntermediateRecursion.csproj.GenerateResource.Cache
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 4\IntermediateRecursion\IntermediateRecursion\obj\Debug\IntermediateRecursion.exe
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 4\IntermediateRecursion\IntermediateRecursion\obj\Debug\IntermediateRecursion.pdb
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 4\IntermediateRecursion\IntermediateRecursion\obj\Debug\IntermediateRecursion.Form1.resources

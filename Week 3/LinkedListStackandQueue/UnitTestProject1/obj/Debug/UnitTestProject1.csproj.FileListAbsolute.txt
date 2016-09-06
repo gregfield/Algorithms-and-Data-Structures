@@ -1,0 +1,7 @@
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 3\LinkedListStackandQueue\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 3\LinkedListStackandQueue\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 3\LinkedListStackandQueue\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 3\LinkedListStackandQueue\UnitTestProject1\bin\Debug\LinkedListStackandQueue.exe
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 3\LinkedListStackandQueue\UnitTestProject1\bin\Debug\LinkedListStackandQueue.pdb
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 3\LinkedListStackandQueue\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 3\LinkedListStackandQueue\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

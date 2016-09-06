@@ -1,0 +1,7 @@
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 3\RecursionIntro\RecursionTestProject1\bin\Debug\RecursionTestProject1.dll
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 3\RecursionIntro\RecursionTestProject1\bin\Debug\RecursionTestProject1.pdb
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 3\RecursionIntro\RecursionTestProject1\bin\Debug\RecursionIntro.exe
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 3\RecursionIntro\RecursionTestProject1\bin\Debug\RecursionIntro.pdb
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 3\RecursionIntro\RecursionTestProject1\obj\Debug\RecursionTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 3\RecursionIntro\RecursionTestProject1\obj\Debug\RecursionTestProject1.dll
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 3\RecursionIntro\RecursionTestProject1\obj\Debug\RecursionTestProject1.pdb

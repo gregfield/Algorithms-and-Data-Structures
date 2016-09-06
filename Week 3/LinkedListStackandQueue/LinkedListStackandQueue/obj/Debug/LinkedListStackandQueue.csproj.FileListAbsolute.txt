@@ -1,0 +1,8 @@
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 3\LinkedListStackandQueue\LinkedListStackandQueue\bin\Debug\LinkedListStackandQueue.exe.config
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 3\LinkedListStackandQueue\LinkedListStackandQueue\obj\Debug\LinkedListStackandQueue.csprojResolveAssemblyReference.cache
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 3\LinkedListStackandQueue\LinkedListStackandQueue\obj\Debug\LinkedListStackandQueue.Properties.Resources.resources
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 3\LinkedListStackandQueue\LinkedListStackandQueue\obj\Debug\LinkedListStackandQueue.csproj.GenerateResource.Cache
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 3\LinkedListStackandQueue\LinkedListStackandQueue\bin\Debug\LinkedListStackandQueue.exe
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 3\LinkedListStackandQueue\LinkedListStackandQueue\bin\Debug\LinkedListStackandQueue.pdb
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 3\LinkedListStackandQueue\LinkedListStackandQueue\obj\Debug\LinkedListStackandQueue.exe
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\Week 3\LinkedListStackandQueue\LinkedListStackandQueue\obj\Debug\LinkedListStackandQueue.pdb
