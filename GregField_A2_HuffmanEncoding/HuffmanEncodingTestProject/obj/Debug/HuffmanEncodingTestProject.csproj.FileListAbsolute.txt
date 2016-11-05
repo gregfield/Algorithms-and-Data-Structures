@@ -1,0 +1,7 @@
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\GregField_A2_HuffmanEncoding\HuffmanEncodingTestProject\bin\Debug\HuffmanEncodingTestProject.dll
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\GregField_A2_HuffmanEncoding\HuffmanEncodingTestProject\bin\Debug\HuffmanEncodingTestProject.pdb
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\GregField_A2_HuffmanEncoding\HuffmanEncodingTestProject\bin\Debug\GregField_A2_HuffmanEncoding.exe
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\GregField_A2_HuffmanEncoding\HuffmanEncodingTestProject\bin\Debug\GregField_A2_HuffmanEncoding.pdb
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\GregField_A2_HuffmanEncoding\HuffmanEncodingTestProject\obj\Debug\HuffmanEncodingTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\GregField_A2_HuffmanEncoding\HuffmanEncodingTestProject\obj\Debug\HuffmanEncodingTestProject.dll
+C:\Users\Greg\Documents\GitHub\IN711fielgm2\GregField_A2_HuffmanEncoding\HuffmanEncodingTestProject\obj\Debug\HuffmanEncodingTestProject.pdb
